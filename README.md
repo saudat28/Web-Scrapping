@@ -1,2 +1,12 @@
 # Web-Scrapping
-WebScrapping – A data extraction and content analysis project that scrapes multiple websites, processes and cleans the data, performs sentiment analysis, and generates insights to support research and data-driven decision-making.
+WebScrapping – A data-driven project designed to:
+
+Extract data from multiple websites using automated scraping techniques
+
+Clean and preprocess textual content
+
+Perform sentiment and trend analysis
+
+Visualize insights using interactive dashboards
+
+Compare content across platforms to identify patterns and global trends
