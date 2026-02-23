@@ -1,0 +1,6 @@
+Total paragraphs analyzed: 23
+Positive paragraphs: 5
+Negative paragraphs: 1
+Neutral paragraphs: 17
+Average sentiment polarity: 0.09
+Average sentiment subjectivity: 0.22
